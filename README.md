@@ -1,86 +1,18 @@
-# Hi, I'm Dante le Roux 👋
+# 💫 About Me:
+I'm a final-year BSc Information Technology student at North-West University with a passion for solving real-world problems through technology. I enjoy analysing requirements, designing efficient solutions, and developing software that delivers value to users.<br><br>Alongside my studies, I teach English online to students from around the world, which has strengthened my communication, problem-solving, time management, organisation, and adaptability skills. Working with learners from diverse cultural backgrounds has taught me how to explain complex ideas clearly, collaborate effectively, and understand different perspectives.<br><br>As I continue to grow as an IT professional, I'm particularly interested in Systems Analysis, Software Engineering, and Database Development. I'm always eager to learn new technologies, take on challenging projects, and expand my technical and professional skills.<br>
 
-🎓 Final-year BSc Information Technology student at North-West University
 
-💼 Aspiring Systems Analyst | Software Developer | Problem Solver
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_dantecameron_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dantelerouxmail@gmail.com) 
 
-🌍 Online English Tutor | Lifelong Learner
-
----
-
-## 👩‍💻 About Me
-
-I'm a final-year BSc Information Technology student with a passion for designing technology that solves real-world problems. I enjoy analysing business challenges, developing practical software solutions, and continuously learning new technologies.
-
-Alongside my studies, I teach English online to students from around the world, strengthening my communication, problem-solving, time management, organisation, and adaptability skills. Working with learners from diverse cultural backgrounds has taught me how to explain complex ideas clearly and collaborate effectively with people from different perspectives.
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=danteleroux&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=danteleroux&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=danteleroux&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=danteleroux&icon=0&color=8)](https://visitcount.itsvg.in)
 
-## 🚀 Tech Stack
-
-### Languages
-
-* Java
-* Python
-* C#
-* C++
-* SQL
-* HTML
-
-### Tools & Technologies
-
-* Git & GitHub
-* Visual Studio
-* Visual Studio Code
-* MySQL
-* Microsoft SQL Server
-* Microsoft Office
-
-### Areas of Knowledge
-
-* Object-Oriented Programming (OOP)
-* Database Design & Development
-* SQL Programming
-* Software Engineering
-* Systems Analysis
-* Artificial Intelligence Fundamentals
-
----
-
-## 🌱 Currently Learning
-
-* Full-Stack Development
-* Cloud Computing
-* Software Architecture & System Design
-* Clean Code Principles
-
----
-
-## 🎯 Career Interests
-
-**My long-term career goal is to become a Systems Analyst**, where I can bridge the gap between business needs and technical solutions. I enjoy understanding problems, designing efficient systems, and creating software that delivers real value.
-
-Areas that particularly interest me include:
-
-* Systems Analysis
-* Software Engineering
-* Artificial Intelligence
-* Database Development
-* Web Development
-* Automation
-
----
-
-## 🎯 Goals
-
-* 🎓 Graduate with my BSc Information Technology degree.
-* 💼 Launch my career as a Systems Analyst while continuing to grow my software development skills.
-* 🤝 Contribute to meaningful software projects that have a positive impact.
-* 📚 Continuously learn, grow, and expand my technical expertise.
-
----
-
-## 📫 Connect with Me
-
-* **GitHub:** https://github.com/danteleroux
-* **LinkedIn:** https://www.linkedin.com/in/danteleroux
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
