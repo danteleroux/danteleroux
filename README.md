@@ -119,19 +119,10 @@ https://github.com/danteleroux/First-Year-University-Tasks
 📧 **Email:**  
 **dantelerouxmail@gmail.com**
 
-📸 **Instagram:**  
-https://instagram.com/_dantecameron_
-
 💼 **LinkedIn:**  
 www.linkedin.com/in/dante-le-roux
 
 
 ---
 
-# 📈 Profile Views
 
-![](https://komarev.com/ghpvc/?username=danteleroux&color=blue)
-
----
-
-> *"Technology is most powerful when it solves real problems and improves people's lives."*
