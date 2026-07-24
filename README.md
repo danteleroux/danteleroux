@@ -80,10 +80,9 @@ https://github.com/danteleroux/Soup-Kitchen-System
 A collection of projects completed throughout my Information Technology degree, covering software development, artificial intelligence, databases, and object-oriented programming.
 
 🔗 **Second-Year Projects**  
-https://github.com/danteleroux/Second-Year-University-Tasks
-
+https://github.com/danteleroux/NWU-Second-Year-Projects
 🔗 **First-Year Projects**  
-https://github.com/danteleroux/First-Year-University-Tasks
+https://github.com/danteleroux/NWU-First-Year-Projects
 
 ---
 
