@@ -122,6 +122,8 @@ https://github.com/danteleroux/First-Year-University-Tasks
 💼 **LinkedIn:**  
 www.linkedin.com/in/dante-le-roux
 
+📝 **Virtual CV:**  
+https://danteleroux.netlify.app/
 
 ---
 
