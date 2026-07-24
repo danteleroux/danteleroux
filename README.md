@@ -51,7 +51,7 @@ A relational database system designed to help a community aquarium manage animal
 - Entity-Relationship & Relational Database Design
 
 🔗 **Repository:**  
-https://github.com/danteleroux/OceanView-Aquarium-Database
+https://github.com/danteleroux/OceanAquarium
 
 ---
 ## 🍲 Soup Kitchen Management System
