@@ -81,6 +81,8 @@ A collection of projects completed throughout my Information Technology degree, 
 
 🔗 **Second-Year Projects**  
 https://github.com/danteleroux/NWU-Second-Year-Projects
+
+
 🔗 **First-Year Projects**  
 https://github.com/danteleroux/NWU-First-Year-Projects
 
