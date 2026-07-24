@@ -33,7 +33,27 @@ A desktop inventory management application developed for a small fragrance busin
 https://github.com/danteleroux/Solante_Inventory_System
 
 ---
+## 🐠 OceanView Aquarium Database System
+A relational database system designed to help a community aquarium manage animals, staff, tanks, feeding schedules, clinic visits, medicine inventory, and rescue missions.
 
+### Features
+- Animal & Tank Tracking
+- Worker & Task Management
+- Feeding Schedules
+- Clinic Visits & Medicine Inventory
+- Maintenance Logging
+- Events & Rescue Mission Records
+- Operational Reporting
+
+**Technologies Used**
+- Oracle SQL Developer
+- SQL / PL-SQL
+- Entity-Relationship & Relational Database Design
+
+🔗 **Repository:**  
+https://github.com/danteleroux/OceanView-Aquarium-Database
+
+---
 ## 🍲 Soup Kitchen Management System
 
 A desktop management system designed to help a community soup kitchen manage donations, volunteers, beneficiaries, and food inventory.
